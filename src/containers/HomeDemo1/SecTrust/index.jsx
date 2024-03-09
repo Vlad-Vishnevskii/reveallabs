@@ -7,8 +7,8 @@ const SecTrust = ({data}) => {
 
       <div className="trust-section section-padding-0-70">
         <SectionHeading
-          title="ICO Rating"
-          text="We are trusted"
+          title="Partners"
+          text=""
         />
         <div className="container">
           <div className="row">

@@ -9,7 +9,7 @@ const OurJoinUs = ({OurJoinUsFirst , OurJoinUsSecond}) => {
 
   return (
 
-    <section className="join-us section-padding-0-100 clearfix" id="services">
+    <section className="join-us section-padding-0-100 clearfix" id="about">
       <div className="container">
         <SectionHeading
           title="Our Services"
@@ -33,7 +33,6 @@ const OurJoinUs = ({OurJoinUsFirst , OurJoinUsSecond}) => {
             <div className="dream-dots justify-content-center fadeInUp" data-aos="fade-up" data-aos-delay="200">
               <span>Join us</span>
             </div>
-            <h2 className="fadeInUp" data-aos="fade-up" data-aos-delay="300">Contribution Cycle</h2>
           </div>
           <div className="col-lg-4 hidden-md hidden-sm hidden-xs text-center">
             <img draggable="false" src={HomeDemo1JoinBottom} className="arrow-img" alt="" />

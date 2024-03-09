@@ -78,17 +78,17 @@ const HomeDemo1Container = () => {
           OurJoinUsFirst={OurJoinUsFirst}
           OurJoinUsSecond={OurJoinUsSecond}
         />
-        <AboutOther />
+        {/* <AboutOther /> */}
         <SecTrust data={SecTrustContent} />
         <OurServices data={Services} />
-        <SmartContract data={SmartContractinfo} />
+        {/* <SmartContract data={SmartContractinfo} /> */}
         <OurPlatform data={PlatformIco} />
-        <SecPrices data={SecPricesInfo} />
+        {/* <SecPrices data={SecPricesInfo} /> */}
         <div className="clearfix" />
         <SpreadMap
             Wwhitepaper={HomeDemo1Wwhitepaper}
         />
-        <TokenDistribution data={TokenDistributionInfo} />
+        {/* <TokenDistribution data={TokenDistributionInfo} /> */}
         <Roadmap data={RoadmapInfo} />
         <Features2
             icoCounterClass="ico-counter mb-30"
@@ -97,7 +97,7 @@ const HomeDemo1Container = () => {
         />
         <Faq data={FaqInfo} />
         <OurTeam data={OurTeamInfo} />
-        <Subscribe />
+        {/* <Subscribe /> */}
         <OurBlog data={OurBlogInfo} />
         <FooterPages />
       </div>
