@@ -1,7 +1,5 @@
 [
-	{"IcoName":"fa fa-facebook"},
-	{"IcoName":"fa fa-twitter"},
-	{"IcoName":"fa fa-google-plus"},
-	{"IcoName":"fa fa-instagram"},
-	{"IcoName":"fa fa-linkedin"}
+	{"IcoName":"fa fa-twitter", "href": "https://twitter.com/invisible_aset"},
+	{"IcoName":"fa fa-telegram", "href": "https://t.me/invisible_asset"},
+	{"IcoName":"fa fa-book", "href": "https://invisible-asset.gitbook.io/invisible-asset"}
 ]

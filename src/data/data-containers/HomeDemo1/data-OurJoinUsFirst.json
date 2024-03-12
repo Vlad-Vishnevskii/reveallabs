@@ -4,21 +4,24 @@
         "ClassDown":"contribution-c-wapper has-arrow-right-lg has-arrow-top-md has-arrow-right-md has-arrow-down-sm",
         "ClassSteps":"gradient-t orange",
         "Steps":1,
-        "title":"Creative Chart Modules"
+        "title":"Whale tracking",
+        "description": "Whales, or large holders of cryptocurrencies, can significantly influence market dynamics. Tracking whale transactions, especially large movements to or from exchanges, can provide early signals of potential market shifts."
     },
     {
         "ClassTop":"col-12 col-md-6 col-lg-4 mt-sm-30",
         "ClassDown":"contribution-c-wapper has-arrow-right-lg has-arrow-bottom-md has-arrow-down-sm",
         "ClassSteps":"gradient-t pink",
         "Steps":2,
-        "title":"Adaptive Social Assistant"
+        "title":"Money flow",
+        "description": "Stay on top of market liquidity with our advanced models that track cryptocurrency inflows and outflows from exchanges."
     },
     {
         "ClassTop":"col-12 col-md-6 col-lg-4 mt-s",
         "ClassDown":"contribution-c-wapper has-arrow-top-md has-arrow-down-sm",
         "ClassSteps":"gradient-t blue",
         "Steps":3,
-        "title":"Ecommerce Embedded"
+        "title":"NVT Ratio Network Value to Transactions (NVT) Ratio",
+        "description": "This metric compares a blockchain's market cap to the volume of transactions on its network."
     }
 
 ]

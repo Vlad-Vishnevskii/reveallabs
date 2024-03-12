@@ -9,6 +9,7 @@ const SecTrust = ({data}) => {
         <SectionHeading
           title="Partners"
           text=""
+          description="Below are the strategically important tools we were inspired by to build our platform, which brings together the best of tech solutions"
         />
         <div className="container">
           <div className="row">

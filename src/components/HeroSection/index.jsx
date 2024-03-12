@@ -31,7 +31,7 @@ const SecHeroSection = ({
                   <h3 className="special-head dark">{specialHead}</h3>
                 </div>
                 <h1>{title}</h1>
-                <p className="w-text fadeInUp" data-wow-delay="0.3s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet dolorem blanditiis ad perferendis, labore delectus dolor sit amet, adipisicing elit. Eveniet.</p>
+                <p className="w-text fadeInUp" data-wow-delay="0.3s">The product contains not only the basic tools for analyzing the cryptocurrency market such as: charts, figures, indicators, comparison tools and clusters; but also hidden metrics that are not available to the average investor</p>
                 <div className="dream-btn-group fadeInUp" data-wow-delay="0.4s">
                   <a href="#" className="btn more-btn mr-3">{link1}</a>
                   <a href="#" className="btn more-btn">{link2}</a>
@@ -41,7 +41,7 @@ const SecHeroSection = ({
             {HomeDemo1Or3Or4Or5Or6 && (
               <div className="col-lg-6">
                 {HomeDemo1Or4Or5Or6 && (
-                  <div className="illusto-2">
+                  <div className="illusto-2" style={{margin: '20px 0'}}>
                     <img draggable="false" draggable="false" src={img} alt="" />
                   </div>
                 )}

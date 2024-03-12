@@ -5,21 +5,24 @@
         "ClassDown":"contribution-c-wapper has-arrow-left-lg has-arrow-bottom-md has-arrow-down-sm",
         "ClassSteps":"gradient-t green",
         "Steps":6,
-        "title":"Creative Chart Modules"
+        "title":"Open Interest Analysis",
+        "description": "By tracking open interest alongside price changes, you can gauge whether a trend is gaining or losing momentum, leading to more informed trading decisions."
     },
     {
         "ClassTop":"col-12 col-md-6 col-lg-4 mt-30",
         "ClassDown":"contribution-c-wapper has-arrow-left-lg has-arrow-left-md has-arrow-down-sm",
         "ClassSteps":"gradient-t green",
         "Steps":5,
-        "title":"Adaptive Social Assistant"
+        "title":"Heat Map Visualisation",
+        "description": "Our heat map offers a vivid, intuitive snapshot of market activity. By presenting price movements across different cryptocurrencies in a color-coded format, you can instantly identify hotspots of high activity and areas of relative calm."
     },
     {
         "ClassTop":"col-12 col-md-6 col-lg-4 mt-30",
         "ClassDown":"contribution-c-wapper ",
         "ClassSteps":"gradient-t pink",
         "Steps":4,
-        "title":"Ecommerce Embedded"
+        "title":"Liquidation Map",
+        "description": "Stay ahead with our real-time liquidation map, a crucial asset for understanding market movements. This feature provides a comprehensive view of where liquidations are occurring, offering clues about support and resistance levels."
     }
 
 ]

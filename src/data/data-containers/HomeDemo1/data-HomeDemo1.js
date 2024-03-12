@@ -45,7 +45,7 @@ export const SecTrustContent = [
     },
     {
         img:HomeDemo1Platforms2,
-        value:8.9,
+        // value:8.9,
         CheckIcon:false
     },
     {
@@ -58,7 +58,7 @@ export const SecTrustContent = [
     },
     {
         img:HomeDemo1Platforms5,
-        value:7.4,
+        // value:7.4,
         CheckIcon:false
     },
     {
@@ -67,38 +67,31 @@ export const SecTrustContent = [
     },
 ]
 
-export const Services = [
-    {
-        img:HomeDemo1Feature1,
-        title:"Instant settlement"
-    },
+export const Services = [    
     {
         img:HomeDemo1Feature2,
-        title:"Flexibility"
+        title:"Flexibility",
+        description: "Our platform is adapted for all types of analysis",
     },
     {
         img:HomeDemo1Feature3,
-        title:"Blockchain technology"
-    },
-    {
-        img:HomeDemo1Feature4,
-        title:"Experienced team"
+        title:"Blockchain technology",
+        description: "On-chain for tracking smart wallets and large holders",
     },
     {
         img:HomeDemo1Feature5,
-        title:"Connect free"
+        title:"Data",
+        description: "Up-to-date data in real time",
     },
     {
         img:HomeDemo1Feature6,
-        title:"AI matching"
+        title:"AI matching",
+        description: "The platform is connected to AI and is always updated",
     },
     {
         img:HomeDemo1Feature7,
-        title:"Low cost"
-    },
-    {
-        img:HomeDemo1Feature8,
-        title:"Digital personas"
+        title:"Low cost",
+        description: "Stake native token and get access",
     },
 ]
 

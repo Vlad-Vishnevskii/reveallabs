@@ -4847,8 +4847,8 @@ body.light-version {
         max-width: 1280px;
     }
     .hero-section img{
-        max-width: 170%;
-        margin-left: -100px;
+        max-width: 130%;
+        margin-left: 15px;
         margin-top: 60px;
         
     }

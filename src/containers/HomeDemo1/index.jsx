@@ -57,12 +57,12 @@ const HomeDemo1Container = () => {
 
     return (
       <div>
-        <Header Title="Home Template1" />
+        <Header Title="reveallabs" />
         <SecHeroSection
           ClassSec="hero-section moving section-padding"
           ClassDiv="col-12 col-lg-5 col-md-12"
-          specialHead="Creative landing page template"
-          title="Decenteralized Crypto Trading Platform"
+          specialHead="What’s Invisible Asset?"
+          title="This is the next generation analytics platform!"
           link1="Whitepaper"
           link2="Buy Token"
           img={HomeDemo1Platform1}
@@ -70,8 +70,8 @@ const HomeDemo1Container = () => {
         <div className="clearfix" />
         <SecAbout
           imgDwon={false}
-          title="Decentralized Trading Platform"
-          text="Connect blockchain to the real world and start crypto tading."
+          title="Invisible Asset"
+          text="What are our advantages?"
           img={HomeDemo1About1}
         />
         <JoinUs
@@ -96,7 +96,7 @@ const HomeDemo1Container = () => {
             Features2InfoDown={Features2InfoDown}
         />
         <Faq data={FaqInfo} />
-        <OurTeam data={OurTeamInfo} />
+        {/* <OurTeam data={OurTeamInfo} /> */}
         {/* <Subscribe /> */}
         <OurBlog data={OurBlogInfo} />
         <FooterPages />

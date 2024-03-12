@@ -3,7 +3,8 @@ const Join = ({
   ClassDown,
   ClassSteps,
   Steps,
-  title
+  title,
+  description
 }) => {
 
   return (
@@ -14,7 +15,7 @@ const Join = ({
             <span className={ClassSteps}>{Steps}</span>
           </div>
           <h6>{title}</h6>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla neque quam, maxi ut accumsan ut, posuere sit Lorem ipsum quam, maximus ut accumsan.</p>
+          <p>{description}</p>
         </div>
       </div>
     </div>

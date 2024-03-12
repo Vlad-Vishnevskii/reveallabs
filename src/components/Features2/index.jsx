@@ -1,5 +1,6 @@
 import Counter from "./Counter"
 import ServicesBlock from "./ServicesBlock"
+import { Diagramgray } from "../../utils/allImgs";
 
 const Features2 = ({
       icoCounterClass,
@@ -15,9 +16,7 @@ const Features2 = ({
       <div className="features2 section-padding-100-70">
         <div className="container">
           <div className="row align-items-center">
-            <Counter
-              icoCounterClass={icoCounterClass}
-            />
+          <img src={Diagramgray} alt="" width={475} height={475}/>            
             {addOther ? (
                 <div className="col-12 col-lg-7 col-sm-12">
                   <div className="col-md-6 col-sm-6">

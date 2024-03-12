@@ -38,11 +38,10 @@ const SecAbout = ({imgDwon=false , title , text , img}) => {
                 <div className="col-12 col-lg-6 offset-lg-0">
                   <div className="who-we-contant mt-s">
                     <div className="dream-dots text-left" data-aos="fade-up" data-aos-delay="300">
-                      <span className="gradient-text ">Decentralized Trading Platform</span>
+                      <span className="gradient-text ">Invisible Asset</span>
                     </div>
-                    <h4 data-aos="fade-up" data-aos-delay="300">Connect blockchain to the real world and start crypto tading.</h4>
-                    <p data-aos="fade-up" data-aos-delay="300">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dictum risus, non suscipit arcu. Quisque aliquam posuere tortor, sit amet convallis nunc scelerisque in.</p>
-                    <p data-aos="fade-up" data-aos-delay="400">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit ipsa ut quasi adipisci voluptates, voluptatibus aliquid alias beatae reprehenderit incidunt iusto laboriosam.</p>
+                    <h4 data-aos="fade-up" data-aos-delay="300">What are our advantages?</h4>
+                    <p data-aos="fade-up" data-aos-delay="300">The advantages of our platform are that we provide up-to-date data in real time, connect to major exchanges and pools with fast data transfer, so the information coming to the user's terminal will be as up-to-date as possible</p>
                   </div>
                 </div>
               </div>

@@ -3,7 +3,8 @@ const SectionHeading = ({
 	text,
 	img,
 	ClassSpan="dream-dots justify-content-center",
-	ClassSpanTitle=""
+	ClassSpanTitle="",
+	description
 }) => {
 
   return (
@@ -22,7 +23,7 @@ const SectionHeading = ({
 	            <span className={ClassSpanTitle}>{title}</span>
 	        </div>
             <h2 data-aos="fade-up">{text}</h2>
-            <p data-aos="fade-up">Our ICO Template Will Be A Perfect Platform For Presenting Your Ico Launch. This Landing Page Comes In Great And Clean Design</p>
+            <p data-aos="fade-up">{description}</p>
 	      </div>
 
       	)}

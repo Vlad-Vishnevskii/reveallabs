@@ -18,8 +18,7 @@ const OurServices = ({data}) => {
             {data && data.map((item , key) => (
               <Service
                 key={key}
-                img={item.img}
-                title={item.title}
+                {...item}
               />
             ))}
           </div>

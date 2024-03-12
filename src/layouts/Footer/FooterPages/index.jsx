@@ -93,13 +93,13 @@ const FooterPages = ({ClassSpanTitle=""}) => {
                     </div>
                     <div className="footer-social-info fadeInUp" data-wow-delay="0.4s">
                       {IcoName && IcoName.map((item , key) => (
-                          <a key={key} href="#"><i className={item.IcoName} aria-hidden="true" /></a>    
+                          <a key={key} href={item.href}><i className={item.IcoName} aria-hidden="true" /></a>    
                       ))}
                     </div>
                   </div>
                 </div>
 
-                {TextFooter && TextFooter.map((item , key) => (
+                {/* {TextFooter && TextFooter.map((item , key) => (
                   <div key={key} className={item.classBlock}>
                     <div className="contact_info_area d-sm-flex justify-content-between">
                       <div className={item.classInfo} data-wow-delay="0.3s">
@@ -112,7 +112,7 @@ const FooterPages = ({ClassSpanTitle=""}) => {
                       </div>
                     </div>
                   </div>
-                ))}
+                ))} */}
 
               </div>
             </div>

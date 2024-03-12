@@ -13,8 +13,8 @@ const OurPlatform = ({data}) => {
         <div className="container">
 
           <SectionHeading
-            title="Try our Platform"
-            text="Our Trading Platform"
+            title=""
+            text="Try INVI"
           />
 
           <div className="row align-items-center">
@@ -22,14 +22,14 @@ const OurPlatform = ({data}) => {
               <div className="features-list">
                 <div className="who-we-contant">
                   <h4 className="w-text" data-aos="fade-up" data-aos-delay="200">Powerful platform.</h4>
-                  <p className="w-text" data-aos="fade-up" data-aos-delay="300">We are dedicated to providing professional service with the highest degree of honesty and integrity, and strive to add value to our tax and consulting services.</p>
+                  <p className="w-text" data-aos="fade-up" data-aos-delay="300">Many different tools for market analytics that will save you a lot of time.</p>
                 </div>
                 <ul className="list-marked">
                   {data && data.map((item , key) => (
                       <li key={key} className="text-white"><i className="fa fa-check" />{item.icoName}</li>
                   ))}
                 </ul>
-                <a className="btn more-btn mt-30" href="#">Read More</a>
+                <a className="btn more-btn mt-30" href="https://invisible-asset.gitbook.io/invisible-asset">Read More</a>
               </div>
             </div>
             <div className="service-img-wrapper col-lg-7 col-md-12 col-sm-12 mt-s">

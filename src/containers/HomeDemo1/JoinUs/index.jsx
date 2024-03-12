@@ -14,16 +14,13 @@ const OurJoinUs = ({OurJoinUsFirst , OurJoinUsSecond}) => {
         <SectionHeading
           title="Our Services"
           text="What we speciaized in"
+          description="Appreciate the tools our team has developed to improve the quality of your analytics."
         />
         <div className="row dark-row pt-60">
           {OurJoinUsFirst && OurJoinUsFirst.map((item , key) => (
             <Join
               key={key}
-              ClassTop={item.ClassTop}
-              ClassDown={item.ClassDown}
-              ClassSteps={item.ClassSteps}
-              Steps={item.Steps}
-              title={item.title}
+              {...item}
             />
           ))}
           <div className="col-lg-4 hidden-md hidden-sm hidden-xs text-center">
@@ -40,11 +37,7 @@ const OurJoinUs = ({OurJoinUsFirst , OurJoinUsSecond}) => {
           {OurJoinUsSecond && OurJoinUsSecond.map((item , key) => (
             <Join
               key={key}
-              ClassTop={item.ClassTop}
-              ClassDown={item.ClassDown}
-              ClassSteps={item.ClassSteps}
-              Steps={item.Steps}
-              title={item.title}
+              {...item}
             />
           ))}
         </div>
