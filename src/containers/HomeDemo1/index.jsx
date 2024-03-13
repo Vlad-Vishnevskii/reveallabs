@@ -98,7 +98,7 @@ const HomeDemo1Container = () => {
         <Faq data={FaqInfo} />
         {/* <OurTeam data={OurTeamInfo} /> */}
         {/* <Subscribe /> */}
-        <OurBlog data={OurBlogInfo} />
+        {/* <OurBlog data={OurBlogInfo} /> */}
         <FooterPages />
       </div>
     );

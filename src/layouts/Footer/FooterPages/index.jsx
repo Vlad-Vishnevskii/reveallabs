@@ -18,17 +18,17 @@ const FooterPages = ({ClassSpanTitle=""}) => {
         <div className="contact_us_area section-padding-0-0" id="contact">
           <div className="container">
             <div className="row">
-              <div className="col-12">
+              {/* <div className="col-12">
                 <SectionHeading
                   title="Contact us"
                   text="Contact With Us"
                   ClassSpanTitle={ClassSpanTitle}
                 />
 
-              </div>
+              </div> */}
             </div>
             {/* Contact Form */}
-            <div className="row justify-content-center">
+            {/* <div className="row justify-content-center">
               <div className="col-12 col-md-10 col-lg-8">
                 <div className="contact_form">
                   <form action="#" method="post" id="main_contact_form" noValidate>
@@ -75,7 +75,7 @@ const FooterPages = ({ClassSpanTitle=""}) => {
                   </form>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
         {/* ##### Contact Area End ##### */}
@@ -89,7 +89,9 @@ const FooterPages = ({ClassSpanTitle=""}) => {
                       <div className="footer-logo">
                         <a href="#"><img draggable="false" src={FooterLogo} alt="logo" /> </a>
                       </div>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ducimus voluptatibus neque illo id repellat quisquam? Autem expedita earum quae laborum ipsum ad.</p>
+                      <p>Invisible Asset <br/>
+                        $INVI <br/>
+                        Contract:0xDc0F321E7411E349A39425701A8C5D771c0af44d</p>
                     </div>
                     <div className="footer-social-info fadeInUp" data-wow-delay="0.4s">
                       {IcoName && IcoName.map((item , key) => (

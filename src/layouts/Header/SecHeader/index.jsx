@@ -6,7 +6,7 @@ const SecHeader = ({Logo , dropdownItem , MenuInfo}) => {
       <nav className="navbar navbar-expand-lg navbar-white fixed-top" id="banner">
         <div className="container">
           {/* Brand */}
-          <a className="navbar-brand" href="#"><span><img draggable="false" src={Logo} alt="logo" /></span></a>
+          <a className="navbar-brand" href="#"><span><img draggable="false" src={Logo} alt="logo" width="60" height="60" /></span></a>
           {/* Toggler/collapsibe Button */}
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon" />

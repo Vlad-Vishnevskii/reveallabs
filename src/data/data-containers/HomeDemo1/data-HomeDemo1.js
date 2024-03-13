@@ -88,11 +88,6 @@ export const Services = [
         title:"AI matching",
         description: "The platform is connected to AI and is always updated",
     },
-    {
-        img:HomeDemo1Feature7,
-        title:"Low cost",
-        description: "Stake native token and get access",
-    },
 ]
 
 export const SmartContractinfo = [

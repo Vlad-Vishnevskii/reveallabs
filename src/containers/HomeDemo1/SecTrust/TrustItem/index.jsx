@@ -10,10 +10,10 @@ const TrustItem = ({
           <div className="ico-platform-logo">
             <img draggable="false" src={img} alt="" />
           </div>
-          <div className="check">
+          {/* <div className="check">
             {value && <div className="value">{value}</div>}
             {CheckIcon && <div className="check-icon" />}
-          </div>
+          </div> */}
         </div>
       </div>
     );
