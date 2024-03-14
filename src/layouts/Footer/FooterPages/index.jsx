@@ -91,7 +91,7 @@ const FooterPages = ({ClassSpanTitle=""}) => {
                       </div>
                       <p>Invisible Asset <br/>
                         $INVI <br/>
-                        Contract:0xDc0F321E7411E349A39425701A8C5D771c0af44d</p>
+                        Contract: 0xDc0F321E7411E349A39425701A8C5D771c0af44d</p>
                     </div>
                     <div className="footer-social-info fadeInUp" data-wow-delay="0.4s">
                       {IcoName && IcoName.map((item , key) => (
