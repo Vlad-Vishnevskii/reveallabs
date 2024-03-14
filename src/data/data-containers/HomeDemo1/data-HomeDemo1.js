@@ -116,30 +116,30 @@ export const SmartContractinfo = [
 export const Features2InfoTop = [
     {
         img:HomeDemo1FeaturesF1,
-        title:"Delivery Reports"
+        title:"Lock liquidity 6 months"
     },
     {
         img:HomeDemo1FeaturesF2,
-        title:"Branded Sender"
+        title:"Audit smartcontract"
     },
     {
         img:HomeDemo1FeaturesF3,
-        title:"SMS Messaging"
+        title:"80% token in Liquidity Pool"
     }
 ]
 
 export const Features2InfoDown = [
     {
         img:HomeDemo1FeaturesF4,
-        title:"Marketing Plans"
+        title:"Marketing promotion"
     },
     {
         img:HomeDemo1FeaturesF5,
-        title:"Seed Routing"
+        title:"5/5 tax"
     },
     {
         img:HomeDemo1FeaturesF6,
-        title:"Traking API"
+        title:"CMC, Coingecko soon"
     }
 ]
 

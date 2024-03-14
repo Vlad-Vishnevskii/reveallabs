@@ -16,8 +16,8 @@ const SpreadMap = ({Wwhitepaper , SectionIcon11}) => {
                 <img draggable="false" src={SectionIcon11} alt="" />
               </div>
               <h4 className="text-white">Downoad Our Whitepaper</h4>
-              <p className="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore qui iste asperiores harum maiores praesentium facere ullam blanditiis, odio dolorum. Officia quisquam eaque suscipit facere ducimus, sit quaerat. Numquam, corrupti?</p>
-              <a className="btn dream-btn mt-30" href="#">
+              <p className="text-white">You can check out our whitepaper. This document reflects all the technical features of our innovative product. We will update it as new results are achieved. Follow us on social media.</p>
+              <a className="btn dream-btn mt-30" href="https://invisible-asset.gitbook.io/invisible-asset">
                 Get Whitepaper
               </a>
             </div>

@@ -34,7 +34,7 @@ const SecHeroSection = ({
                 <p className="w-text fadeInUp" data-wow-delay="0.3s">The product contains not only the basic tools for analyzing the cryptocurrency market such as: charts, figures, indicators, comparison tools and clusters; but also hidden metrics that are not available to the average investor</p>
                 <div className="dream-btn-group fadeInUp" data-wow-delay="0.4s">
                   <a href="https://invisible-asset.gitbook.io/invisible-asset" className="btn more-btn mr-3">{link1}</a>
-                  <a href="#" className="btn more-btn">{link2}</a>
+                  <a href="https://app.uniswap.org/swap?outputCurrency=0xDc0F321E7411E349A39425701A8C5D771c0af44d&chain=ethereum" className="btn more-btn">{link2}</a>
                 </div>
               </div>
             </div>

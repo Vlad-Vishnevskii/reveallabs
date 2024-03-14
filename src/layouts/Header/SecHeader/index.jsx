@@ -28,7 +28,7 @@ const SecHeader = ({Logo , dropdownItem , MenuInfo}) => {
                   <a className="nav-link" href={item.path}>{item.nameLink}</a>
                 </li>
               ))}
-              <li className="lh-55px"><a href="#" className="btn login-btn ml-50">Contact Us</a></li>
+              <li className="lh-55px"><a href="https://beta.inviasset.com" className="btn login-btn ml-50">Platform</a></li>
             </ul>
           </div>
         </div>

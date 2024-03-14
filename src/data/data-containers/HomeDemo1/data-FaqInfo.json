@@ -1,18 +1,22 @@
 [
     {
-        "text":"What are the objectives of this Token?",
+        "text":"What is our token for?",
+        "description": "Token is needed to access the platform, the functionality of the platform depends on the number of tokens.",
         "ID":"Text1"
     },
     {
-        "text":"What is the best features and services we deiver?",
+        "text":"Who needs our platform?",
+        "description": "The platform is needed by absolutely everyone who trades cryptocurrency. For successful trading, you always need competent analytics and INVI will help you with this.",
         "ID":"Text2"
     },
     {
-        "text":"Why this ICO important to me?",
+        "text":"Why should you choose us among many others?",
+        "description": "Here you can use absolutely all possible types of analysis on one platform. We have integrated into the service everything you need for a qualitative analysis and search for everything you need in one tab. Now you don't have to switch from one service to another to supplement your analytics.",
         "ID":"Text3"
     },
     {
-        "text":"how may I take part in and purchase this Token?",
+        "text":"How relevant is the information?",
+        "description": "The information is updated in real time and is constantly being trained by AI, which contributes to obtaining the most up-to-date data",
         "ID":"Text4"
     }
 ]

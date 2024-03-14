@@ -8,7 +8,7 @@ const OurServices = ({data}) => {
     return (
 
       <section className="our_services_area section-padding-0-0 clearfix">
-        <div className="container">
+        <div className="container" id="services">
           <SectionHeading
             title="Why choose us"
             text="Our Main Features"
