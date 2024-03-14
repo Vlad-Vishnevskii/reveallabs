@@ -135,7 +135,7 @@ export const Features2InfoDown = [
     },
     {
         img:HomeDemo1FeaturesF5,
-        title:"5/5 tax"
+        title:"5/5 TAX No Whitelist"
     },
     {
         img:HomeDemo1FeaturesF6,
